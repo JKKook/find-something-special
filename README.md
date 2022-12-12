@@ -8,6 +8,4 @@ throttle 함수를 활용해서 100ms delay를 적용했습니다.
 </p>
 
 
-
-<h3>프로젝트 결과물</h3>
-![Dec-12-2022 18-32-32](https://user-images.githubusercontent.com/104504666/207021096-926e7e0f-fecd-4984-bd35-45d553e76ab8.gif)
+![Dec-12-2022 18-32-32](https://user-images.githubusercontent.com/104504666/207021659-8b8b6f97-90cf-44ff-9415-fc35a283a7f9.gif)
